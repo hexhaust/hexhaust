@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Iago</h1>
-<h3 align="center">A Senior DevOps/Site Reliability Engineer and Cloud Architect</h3>
+<h3 align="center">A Senior DevOps/Site Reliability/Platform Engineer and Cloud Architect/Engineer</h3>
 
-- 🔭 I’m currently working on **getting Professional certificaions in AWS and GCP**
+- 🔭 I’m currently working on **getting Kubernetes and AWS certifications**
 
 - 🌱 I’m currently learning **GoLang and Kubernetes**
 
@@ -13,7 +13,6 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/iago-willian/](https://www.linkedin.com/in/iago-willian/)
 
-- ⚡ Fun fact **I have a hamster called hexie, which is my username in another way lol**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
